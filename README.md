@@ -4,7 +4,7 @@ Full Stack Developer and teacher focused on Python/Django and Bootstrap, Have se
 
 - 🔭 I’m currently working on a social media project
 - 🌱 I’m currently learning Vue.js
-- 📫 How to reach me: `Shyamsmail12@gmail.com`
+- 📫 How to reach me: `shyamsmail12@gmail.com`
 
 
 ## GitHub Stats
