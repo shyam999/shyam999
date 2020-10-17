@@ -1,5 +1,5 @@
 # <a href = https://shyam999.github.io/> Shyam Acharjya</a> 
-Full Stack Developer and teacher focused on Python/Django and Bootstrap, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm, I like to keep learning, continue challenging myself, and do interesting things that matter.
+Full Stack Developer and teacher focused on Python/Django and Bootstrap, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 
 
 - 🔭 I’m currently working on a social media project
